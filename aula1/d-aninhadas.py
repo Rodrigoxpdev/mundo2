@@ -7,7 +7,7 @@ anos = int(input('Em quantos anos você quer pagar? '))
 
 #CALCULOS
 prestaçao = casa / (anos * 12)
-minimo = salario*30 / 100 #30 por cento do salario
+minimo = salario * 30 / 100 #30 por cento do salario
 
 #RESPOSTAS
 print('__'*20)   
