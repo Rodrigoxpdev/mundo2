@@ -45,6 +45,3 @@ print('voce digitou a frase {} '.format(junto))
 
 
 
-
-
-
