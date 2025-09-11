@@ -39,6 +39,7 @@ while opçao != 5:
     else:
         print('Opção invalida. tente novamente!')
     print('=-='*20)
+    sleep(1.2)
 print('Fim do program Volte sempre!')
 
 
