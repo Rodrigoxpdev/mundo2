@@ -47,7 +47,9 @@ idade = 26
 salario = 1500
 print(f'{nome:-^20} tem {idade} anos e ganha {salario:.2f}')
 
-# {nome:-^20} Alinhando nome
+# {nome:-^20} Alinhando nome centro
+# {nome:->20} Alinhando nome direita
+# {nome:-<20} Alinhando nome esquerda
 # {nome:20} colocando espaço entre o nome
 #{salario:.2f} formatando casas 
 
